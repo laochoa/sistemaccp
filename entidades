@@ -1,0 +1,57 @@
+estado
+  est_cod
+  est_des
+producto
+  pro_cod
+  pro_des
+  lop_cod
+  est_cod
+persona
+  per_cod
+  per_nom
+  per_app
+  per_apm
+  per_ci
+  per_fnac
+  per_tel
+  per_cor
+  per_nac
+  per_sex
+  est_cod
+director
+  dir_cod
+  per_cod
+  est_cod
+jefelab
+  jef_cod
+  per_cod
+  est_cod
+analista
+  anl_cod
+  per_cod
+  est_cod
+loteproducto
+  lop_cod
+  lop_des
+  cer_cod
+  est_cod
+informes
+  inf_cod
+  inf_des
+  inf_fec
+  est_cod
+ensayos
+  ens_cod
+  ens_des
+  inf_cod
+  est_cod
+certificados
+  cer_cod
+  cer_des
+  est_cod
+analiza
+  ana_cod
+  ana_des
+  pro_cod
+  ens_cod
+  est_cod
